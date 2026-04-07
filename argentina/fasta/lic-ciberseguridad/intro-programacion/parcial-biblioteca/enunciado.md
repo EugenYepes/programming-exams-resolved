@@ -2,7 +2,7 @@
 
 ## Descripción del Problema
 
-Una biblioteca universitaria registra los préstamos de libros realizados durante el primer semestre en un archivo de texto llamado **prestamos.txt**.
+Una biblioteca universitaria registra los préstamos de libros realizados durante el primer semestre en un archivo de texto llamado **data.txt**.
 
 ## Formato del Archivo
 
