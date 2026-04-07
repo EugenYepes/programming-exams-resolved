@@ -20,14 +20,14 @@ Este repositorio no busca solo mostrar soluciones, sino ayudarte a:
 Los exámenes están organizados por:
 
 ```
-/programming-exams-resolved/{pais}/{institucion}/{materia}/{examen}
+/programming-exams-resolved/{pais}/{institucion}/{carrera}/{materia}/{examen}
 ```
 
 ### Ejemplo
 
 ```
-/programming-exams-resolved/argentina/ort/tp1/examen-biblioteca
-/programming-exams-resolved/argentina/utn/info1-electronica/examen-listas
+/programming-exams-resolved/argentina/ort/analisis-sistemas/tp1/examen-biblioteca
+/programming-exams-resolved/argentina/utn/ing-electronica/info1/examen-listas
 ```
 
 Cada examen contiene:
