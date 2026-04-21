@@ -48,4 +48,4 @@ Calcular e informar el porcentaje de socios que hayan pedido menos de 3 libros d
 
 ## Aclaraciones Importantes
 
-Considerar únicamente las estructuras de almacenamiento y sentencias del lenguaje vistas en la asignatura hasta el momento del segundo parcial; el uso de otras estructuras y sentencias resultarán en la automática desaprobación del examen.
+Considerar únicamente las estructuras de almacenamiento y sentencias del lenguaje vistas en la asignatura hasta el momento del segundo parcial; el uso de otras estructuras y sentencias resultarán en la automática desaprobación del examen. (no se pueden utilizar matrices ni structs)

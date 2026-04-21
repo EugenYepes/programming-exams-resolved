@@ -1,10 +1,9 @@
-# Parcial Resuelto – Biblioteca Universitaria
+# Parcial Resuelto – Sistema de Biblioteca
 
 ## Qué vas a aprender con este ejercicio
 
 Este tipo de parcial aparece muy seguido en materias iniciales de programación.  
 Evalúa si podés:
-
 - Modelar un problema real.
 - Separar lógica en funciones.
 - Manejar arrays y estados.
