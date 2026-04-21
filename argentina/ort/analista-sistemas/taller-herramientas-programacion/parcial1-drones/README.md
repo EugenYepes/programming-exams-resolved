@@ -13,7 +13,7 @@
 [Ver enunciado completo](./enunciado.pdf)
 
 ## Resolución
-[Ver código fuente en Resolucion.Java](`./Resolucion.java`)
+[Ver código fuente en Resolucion.Java](./Resolucion.java)
 
 ## Explicación completa
 [Ver explicación paso a paso](./explicacion.md)
