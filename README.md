@@ -26,8 +26,7 @@ Los exámenes están organizados por:
 ### Ejemplo
 
 ```
-/programming-exams-resolved/argentina/ort/analisis-sistemas/tp1/examen-biblioteca
-/programming-exams-resolved/argentina/utn/ing-electronica/info1/examen-listas
+/programming-exams-resolved/argentina/ort/analista-sistemas/taller-programacion-1/examen-biblioteca
 ```
 
 Cada examen contiene:
@@ -61,7 +60,7 @@ Algunos ejercicios tienen explicación en YouTube donde desarrollo:
 * decisiones importantes
 * errores comunes
 
-(link al canal o playlist)
+TODO (link al canal o playlist)
 
 ---
 
@@ -89,15 +88,13 @@ Lo importante es entender:
 1. Leé el enunciado
 2. Intentá resolverlo por tu cuenta
 3. Revisá la solución
-4. Mirá la explicación (si está disponible)
+4. Mirá la explicación
 
----
-
-## Próximos contenidos
-
-* Más finales de TP1 / THP (Java)
-* Ejercicios de C (UTN)
-* Problemas de estructuras de datos
+## Contenidos
+| Examen / Proyecto | Lenguaje | Temas Clave | Institución | Materia |
+| :--- | :---: | :--- | :--- | :--- |
+| [**Mensajería Almagro Express**](./argentina/ort/analista-sistemas/taller-herramientas-programacion/parcial1-drones/README.md) | `Java` | Ciclos combinados, validación de datos, máximos y promedios. | **ORT** - Analista de Sistemas | Taller Herramientas de Programacion y Fundamentos de Programacion |
+| [**Sistema de Biblioteca**](./argentina/fasta/lic-ciberseguridad/intro-programacion/parcial-biblioteca/README.md) | `C` | Arrays paralelos, manejo de archivos (`fscanf`), búsqueda lineal. | **FASTA** - Lic. en Ciberseguridad | Introducción a la Programacion
 
 ---
 
