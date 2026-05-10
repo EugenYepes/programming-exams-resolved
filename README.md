@@ -56,11 +56,12 @@ Cada examen contiene:
 
 Algunos ejercicios tienen explicación en YouTube donde desarrollo:
 
+[Link canal YouTube](https://www.youtube.com/@EugenioNYepes)
+
 * cómo pensar la solución
 * decisiones importantes
 * errores comunes
 
-TODO (link al canal o playlist)
 
 ---
 
