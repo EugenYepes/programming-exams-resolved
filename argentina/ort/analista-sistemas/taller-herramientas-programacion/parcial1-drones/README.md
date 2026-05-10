@@ -1,6 +1,6 @@
 # Parcial resuelto en Java – Mensajería Almagro Express (Ciclos Combinados)
 
-🎥 Video explicación: Próximamente
+🎥 [Video explicación](https://youtu.be/eb-MTuJactc)
 
 ## Qué vas a aprender
 - **Ciclos combinados:** Uso de un `for` anidado con un `do-while`.
