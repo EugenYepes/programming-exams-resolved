@@ -94,7 +94,8 @@ Lo importante es entender:
 | Examen / Proyecto | Lenguaje | Temas Clave | Institución | Materia |
 | :--- | :---: | :--- | :--- | :--- |
 | [**Mensajería Almagro Express**](./argentina/ort/analista-sistemas/taller-herramientas-programacion/parcial1-drones/README.md) | `Java` | Ciclos combinados, validación de datos, máximos y promedios. | **ORT** - Analista de Sistemas | Taller Herramientas de Programacion y Fundamentos de Programacion |
-| [**Sistema de Biblioteca**](./argentina/fasta/lic-ciberseguridad/intro-programacion/parcial-biblioteca/README.md) | `C` | Arrays paralelos, manejo de archivos (`fscanf`), búsqueda lineal. | **FASTA** - Lic. en Ciberseguridad | Introducción a la Programacion
+| [**Sistema de Biblioteca**](./argentina/fasta/lic-ciberseguridad/intro-programacion/parcial-biblioteca/README.md) | `C` | Arrays paralelos, manejo de archivos (`fscanf`), búsqueda lineal. | **FASTA** - Lic. en Ciberseguridad | Introducción a la Programacion |
+| [**Sistema de Gestión Hospitalaria**](./argentina/usal/ing-informatica/programacion-1/parcial-hospital/README.md) | `C` | Structs anidados, memoria dinámica (`malloc`), punteros, menú interactivo. | **USAL** - Ing. Informática | Programación 1 |
 
 ---
 
@@ -106,7 +107,7 @@ Lo importante es entender:
 * Resolución de guías y parciales
 * Enfoque práctico para aprobar
 
-- [Superprof](https://www.superprof.com.ar/clases-programacion-java-algoritmos-punteros-objetos-finales-utn-uba-ort-uia-senior-dev-fintech-analista.html)
+- [Superprof](https://www.superprof.com.ar/clases-programacion-java-algoritmos-punteros-objetos-tdas-preparacion-finales-utn-uba-ort-senior-software.html)
 - [Preply](https://preply.in/EUGENIO4ES3402806710?ts=17746642) 
 - [Trial con descuento 30% (Preply)](https://preply.com/es/?pref=MjY1MjA1NTY=&id=1774664316.615227&ep=w1)
 
