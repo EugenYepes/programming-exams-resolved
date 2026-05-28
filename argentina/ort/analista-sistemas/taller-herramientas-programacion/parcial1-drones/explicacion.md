@@ -26,7 +26,7 @@ El programa utiliza una estructura de **ciclos anidados**:
 
 Si necesitas ayuda para entender este tipo de parciales o estás preparando un examen, no dudes en contactarme para tener clases 1 - 1 con ejemplos personalizados y explicaciones detalladas.
 
-- [Superprof](https://www.superprof.com.ar/clases-programacion-java-algoritmos-punteros-objetos-finales-utn-uba-ort-uia-senior-dev-fintech-analista.html)
+- [Superprof](https://www.superprof.com.ar/clases-programacion-java-algoritmos-punteros-objetos-tdas-preparacion-finales-utn-uba-ort-senior-software.html)
 - [Preply](https://preply.in/EUGENIO4ES3402806710?ts=17746642) 
 
 Contacto: eugenionyepes@gmail.com

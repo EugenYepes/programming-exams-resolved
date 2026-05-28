@@ -23,7 +23,7 @@ FASTA – Lic. en Ciberseguridad
 Introducción a la Programación
 
 ### Si necesitas clases 1-1 podes contactarme.
-- [Superprof](https://www.superprof.com.ar/clases-programacion-java-algoritmos-punteros-objetos-finales-utn-uba-ort-uia-senior-dev-fintech-analista.html)
+- [Superprof](https://www.superprof.com.ar/clases-programacion-java-algoritmos-punteros-objetos-tdas-preparacion-finales-utn-uba-ort-senior-software.html)
 - [Preply](https://preply.in/EUGENIO4ES3402806710?ts=17746642) 
 
 Contacto: eugenionyepes@gmail.com
